@@ -2,4 +2,4 @@ Primary Color - Modern Blue #2196F3
 Secondary Color - Dark Gray #383A3F
 Accent Color - Vibrant Orange #FF9800
 
-font logo: Roboto Slab
+font logo: Open Sans
